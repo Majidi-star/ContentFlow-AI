@@ -52,6 +52,9 @@ This project is part of a larger ecosystem. While the core scripts handle data a
 ۲. اتوماسیون n8n محتوا را از طریق API دریافت می‌کند.
 ۳. محتوا توسط مدل‌های هوش مصنوعی ترجمه و به پست‌های شبکه‌ای یا مقالات سئو شده تبدیل می‌شود.
 
+<img width="1640" height="399" alt="Screenshot 2025-12-24 191248" src="https://github.com/user-attachments/assets/aaed462d-a346-46c5-ae30-90ddeaff0131" />
+
+
 ---
 
 ## 🚀 Installation & Setup

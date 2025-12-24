@@ -30,6 +30,8 @@ This project is part of a larger ecosystem. While the core scripts handle data a
 3.  Generate SEO-optimized social media posts or articles.
 *(Note: n8n JSON is excluded for security reasons).*
 
+<img width="1673" height="591" alt="n8n screenshot" src="https://github.com/user-attachments/assets/987c1ede-0a25-4308-b762-74fef60edbd2" />
+
 ---
 
 <a name="persian"></a>
